@@ -1,0 +1,24 @@
+.header {
+  text-align: right;
+}
+
+.search {
+  margin-top: 250px;
+  width: 30%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.išči {
+  color: white;
+  background-color: green;
+  padding: 10px;
+  font-family: arial;
+  margin-top: 10px;
+}
+
+.polje {
+  height: 25px;
+  width: 200px;
+}
